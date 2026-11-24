@@ -1,0 +1,8 @@
+build/
+gerados/
+lib/*.part
+.venv/
+saida/
+out/
+.out.saida/
+.antlr/
